@@ -1,0 +1,390 @@
+.sec1{
+    
+    background-image: url(phone2.jpeg );
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.white{
+    background-color: rgba(255, 255, 255, 0.653);
+}
+.inbox1{
+   padding-top: 100px;
+    text-align: center;
+}
+.map{
+    color:rgba(255, 0, 0, 0.967) ;
+    font-size: 60px;
+    
+
+}
+.digital{
+    font-size: 30px;
+    text-align: center;
+
+}
+.p1{
+    font-size: 15px;
+    font-family: Bahnschrift;
+
+}
+.video{
+    padding: 100px 0px;
+}
+.button{
+    font-size: 20px;
+}
+.play{
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.v{
+    font-size: 30px;
+    padding: 50px 0px;
+    display: inline-block;
+}
+.sec2{
+    background-color:white;
+    /* height: 100px; */
+    border-bottom: 1px solid rgba(128, 128, 128, 0.359);
+
+}
+.inbox2{
+    /* text-align: center; */
+    padding-right: 10px;
+}
+.map2{
+    font-size: 40px;
+    color: red;
+    /* padding-right: 100px; */
+    padding-top: 25px;
+    display: inline-block;
+}
+.scrap{
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.inbox2a{
+    text-align: center;
+    padding-top: 30px;
+    
+}
+.feature{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    margin-left: 20px;
+
+}
+.download{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin-left: 20px;
+    font-weight: bold;
+
+}
+.sec3{
+    /* height: 550px; */
+}
+.inbox3{
+   min-height: 300px ; 
+    margin-top: 50px;
+}
+.inbox3a{
+    min-height: 300px;
+    margin-top: 150px;
+    margin-left: 200px;
+
+}
+.browse{
+    font-size: 40px;
+}
+.chrome{
+    margin-top: 50px;
+   
+}
+.red{
+    color: red;
+    font-weight: bold;
+  
+}
+.red2{
+    color: red;
+    font-weight: bold;
+}
+.sec4{
+    min-height: 500px;
+    /* background-color: aqua; */
+}
+.inbox4{
+    background-image: url(wrking5.jpg);
+ 
+    margin-top: 75px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    
+}
+.video2{
+    background-color: rgba(0, 0, 0, 0.352);
+    padding: 100px 0px;
+    text-align: center;
+    
+}
+.lapplay{
+    font-size: 60px;
+    color:white;
+  
+}
+.play1{
+    font-size: 25px;
+    text-transform: uppercase;
+    color: white;
+}
+.inbox4a{
+    margin-left: 50px;
+    
+}
+.learn{
+    margin-top: 60px;
+    font-size: 30px;
+    font-weight: normal;
+}
+.p3{
+    font-size: 20px;
+   
+}
+.p4{
+    font-weight: bold;
+    font-size: 15px;
+}
+.redcolor{
+    color: red;
+}
+.redcolor2{
+    color: red;
+}
+.redcolor3{
+    color: red;
+}
+.sec5{
+    /* min-height: 600px; */
+    border-bottom: 1px solid rgba(128, 128, 128, 0.613);
+   
+
+}
+.inbox5{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 40px;
+
+}
+.inbox5a{
+    
+    /* height: 100px; */
+    text-align: center;
+ 
+    
+}
+.available{
+    font-size: 20px;
+    text-align: center;
+    
+}
+.inbox5b{
+    /* height: 100px; */
+   text-align: center;
+   
+}
+.subscription{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+.line{
+    height: 2px;
+    background-color: gray;
+    width: 50px;
+    margin: auto;
+}
+.line2{
+    border-left: 1px solid rgba(128, 128, 128, 0.411);
+    border-right: 1px solid rgba(128, 128, 128, 0.411);
+}
+.unlimited{
+    text-align: center;
+    padding-top: 30px;
+    font-weight: lighter;
+    font-size: 20px;
+}
+.from{
+    font: size 25px;;
+}
+.s3{
+    font-size: 30px;
+    color: red;
+}
+.inbox5c{
+    min-height: 100px;
+   text-align: center;
+
+}
+.free{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+.offline{
+    text-align: center;
+    padding-top: 30px;
+    font-weight: lighter;
+    font-size: 20px;
+}
+.free2{
+    font-size: 25px;
+    padding-top: 40px;
+}
+.redfree{
+    font-size: 30px;
+    color: red;
+}
+.inbox6{
+   padding-top: 80px;
+    text-align: center;
+}
+.down{
+    text-align: center;
+    background-color: red;
+    color: rgba(255, 255, 255, 0.678);
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 25px;
+}
+.load{
+    color: white;
+    font-weight: bold;
+    
+}
+.ios{
+    padding: 35px 0px;
+}
+.sec6{
+    min-height: 500px;
+}
+.inbox7{
+    text-align: center;
+}
+.built{
+    margin-top: 70px;
+    font-size: 20px;
+}
+.inbox7a{
+    /* margin-left: 200px; */
+    margin-top: 50px;
+    text-align: right;
+}
+.andreas{
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.668);
+}
+.inbox7b{
+    text-align: center;
+    margin-top: 50px;
+    
+}
+.julian{
+    color: rgba(0, 0, 0, 0.619);
+}
+.inbox7c{
+    /* text-align: center; */
+    margin-top: 50px;
+    /* margin-right: 300px; */
+}
+.inbox7x{
+    text-align: center;
+    margin-top: 70px;
+}
+.twit{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+    font-weight: bold;
+}
+.dot{
+    transform: translatey(-5px);
+    display: inline-block;
+    margin-right: 12px;
+    font-weight: bold;
+}
+.inbox7y{
+    margin-top: 50px;
+    text-align: center;
+
+}
+.nether{
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, 0.469);
+}
+@media (max-width:575px){
+
+
+    .inbox2{
+        text-align: center;
+    }
+    .video{
+        padding: 0px;
+
+    }
+    .v{
+        padding: 20px;
+    }
+    .inbox1{
+        padding-top: 35px;
+    }
+    .inbox3a{
+        margin-left: 0px;
+        text-align: center;
+        margin-top: 40px;
+    }
+    .chrome{
+        margin-top: 0px;
+    }
+    .inbox4{
+        margin-top: 0px;
+    }
+    .inbox7c{
+        text-align: center;
+    }
+    .inbox7a{
+        text-align: center;
+    }
+    .inbox6{
+        padding-top: 35px;
+       
+    }
+    .subscription{
+        padding-top: 20px;
+    }
+    .unlimited{
+        padding-top: 15px;
+    }
+}
+@media(max-width:991px){
+    .inbox3a{
+        margin-top: 40px;
+        margin-left: 100px;
+    }
+    .inbox7c{
+        text-align: center;
+    }
+
+}
